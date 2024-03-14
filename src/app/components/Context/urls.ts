@@ -18,8 +18,8 @@ export const urls = [
     loading: false,
   },
   {
-    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6529579/",
-    title: "Harm Reduction in Canada: The Many Faces of Surveillance",
+    url: "https://www.canada.ca/en/health-canada/services/opioids.html",
+    title: "Opiods - Health Canada",
     seeded: false,
     loading: false,
   }
