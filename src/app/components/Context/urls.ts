@@ -1,18 +1,26 @@
-export const urls = [{
-  url: "https://e360.yale.edu/digest/indonesia-malaysia-deforestation",
-  title: "Indonesia Deforestation",
-  seeded: false,
-  loading: false,
-},
-{
-  url: "https://cleantechnica.com/2023/06/29/solar-82-of-power-capacity-growth-in-india-in-2022/",
-  title: "Solar Power in India",
-  seeded: false,
-  loading: false,
-},
-{
-  url: "https://www.cbssports.com/nba/news/matisse-thybulle-to-stay-with-blazers-who-match-mavericks-three-year-33-million-deal-per-report/",
-  title: "Matisee Thybulle",
-  seeded: false,
-  loading: false,
-}]
+export const urls = [
+  {
+    url: "https://www.canada.ca/en/health-canada/services/substance-use/canadian-drugs-substances-strategy/funding/substance-use-addictions-program/active-projects.html",
+    title: "Active Substance Projects - Health Canada",
+    seeded: false,
+    loading: false,
+  },
+  {
+    url: "https://www.ccsa.ca/sites/default/files/2019-04/CCSA-Reducing-Harm-2019-Report-en.pdf",
+    title: "Reducing Harm: A Decade of Harm Reduction Progress in Canada",
+    seeded: false,
+    loading: false,
+  },
+  {
+    url: "https://www.canada.ca/en/health-canada/services/substance-use/controlled-illegal-drugs.html",
+    title: "Controlled Illegal Drugs - Health Canada",
+    seeded: false,
+    loading: false,
+  },
+  {
+    url: "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6529579/",
+    title: "Harm Reduction in Canada: The Many Faces of Surveillance",
+    seeded: false,
+    loading: false,
+  }
+];
