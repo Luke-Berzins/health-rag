@@ -19,7 +19,7 @@ export const urls = [
   },
   {
     url: "https://www.canada.ca/en/health-canada/services/opioids.html",
-    title: "Opiods - Health Canada",
+    title: "Opioids - Health Canada",
     seeded: false,
     loading: false,
   }
